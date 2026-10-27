@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alok Gupta 👋
 
-<!--
-**alokguptaayushgupta-source/alokguptaayushgupta-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## About Me
+- Learning Python, Java, and C++
+- Practicing problem-solving and Data Structures & Algorithms
+- Building projects and improving my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-View%20My%20Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/Alokguptaayushgupta/)
+
+## Current Goals
+- Strengthen programming fundamentals
+- Solve LeetCode problems consistently
+- Build useful software projects
+-
